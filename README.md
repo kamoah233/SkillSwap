@@ -5,4 +5,5 @@ Full-stack Django + React +Tailwind app with PostgreSQL, Celery, Redis, Docker, 
 #Running Locally
 
 git clone https://github.com/kamoah233/SkillSwap
+
 cd SkillSwap
